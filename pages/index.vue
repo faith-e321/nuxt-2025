@@ -1,6 +1,5 @@
 <template>
-    <div>hi
-
-        <nuxt-link to="/about">About</nuxt-link>
-    </div>
+    Hello from the index page
+    <script setup></script>
+    <Box />
 </template>
