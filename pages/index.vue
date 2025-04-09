@@ -1,5 +1,7 @@
 <template>
     Hello from the index page
-    <script setup></script>
     <Box />
+    <FaithSlogan />
 </template>
+<script setup>
+</script>
