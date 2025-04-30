@@ -1,5 +1,5 @@
 <template>
     <div>
-        <PageHeader title="Contact" />
+        <PageHeader title="Blog" />
     </div>
 </template>

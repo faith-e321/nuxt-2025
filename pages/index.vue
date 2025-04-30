@@ -1,4 +1,5 @@
 <template>
+    <Hero />
     Hello from the index page
     <Box />
     <FaithSlogan />
