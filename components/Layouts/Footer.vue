@@ -8,5 +8,7 @@
                 <NavigationFooter class="flex flex-col md:flex-row items-start gap-4"/>
             </div>
         </footer>
+        <div class="text-gray-300 text-xs px-4 max-w-5xl mx-auto mt-4 text-left md:text-right"> Copyright Faith Ahola, 2025
+        </div>
     </div>
 </template>
