@@ -59,30 +59,30 @@
         </div>
         <div class="pt-4">
             <h1 class="font-bold text-2xl pb-4">Experience and Education</h1>
-            <div class="md:grid grid-flow-col auto-cols-max justify-between">
+            <div class="grid grid-cols-1 md:grid-cols-2">
                 <div>
                     <h2 class="text-xl font-semibold">Northwest University</h2>
                     <p>B.A. User Experience Design</p>
                     <div class="h-4"></div>
                     <h2 class="text-xl font-semibold">Clark College</h2>
                     <p>A.A. General Studies</p>
+                    <div class="h-4"></div>
                 </div>
-                <div class="h-4"></div>
                 <div>
                     <h2 class="text-xl font-semibold">The Home Depot</h2>
                     <p>UX Design Intern</p>
                     <ul class="italic list-disc pl-8">
-                        <li>Task 1</li>
-                        <li>Task 2</li>
-                        <li>Task 3</li>
+                        <li>Developed an onboarding experience to serve a broad audience</li>
+                        <li>Presented to various departments and communicated with different stakeholders to define and complete project</li>
+                        <li>Conducted user research and designed prototypes</li>
                     </ul>
                     <div class="h-4"></div>
                     <h2 class="text-xl font-semibold">Northwest University</h2>
                     <p>Graphic Design and Social Media Coordinator</p>
                     <ul class="italic list-disc pl-8">
-                        <li>Task 1</li>
-                        <li>Task 2</li>
-                        <li>Task 3</li>
+                        <li>Created graphics and social media posts to reach student population</li>
+                        <li>Collaborated with team to create events and coordinate marketing plans</li>
+                        <li>Used Canva, Photoshop, and Illustrator</li>
                     </ul>
                 </div>
             </div>
