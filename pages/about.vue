@@ -3,9 +3,9 @@
     <div>
         <PageHeader title="About" />
     </div>
-    <div class="flex gap-8 justify-stretch">
-        <div class="w-fit">
-            <img src="/FaithSnow.jpeg" alt="Faith in the Snow" class="h-80 w-80 rounded">
+    <div class="md:flex gap-8 justify-stretch">
+        <div class="justify-center pb-4">
+            <img src="/FaithSnow.jpeg" alt="Faith in the Snow" class="md:max-w-64 h-auto  rounded">
         </div>
         <div class="w-fit">
             <h1 class="font-bold text-2xl pb-2">Hello, my name is Faith Ahola!</h1>
@@ -59,7 +59,7 @@
         </div>
         <div class="pt-4">
             <h1 class="font-bold text-2xl pb-4">Experience and Education</h1>
-            <div class="grid grid-flow-col auto-cols-max justify-between">
+            <div class="md:grid grid-flow-col auto-cols-max justify-between">
                 <div>
                     <h2 class="text-xl font-semibold">Northwest University</h2>
                     <p>B.A. User Experience Design</p>
@@ -67,6 +67,7 @@
                     <h2 class="text-xl font-semibold">Clark College</h2>
                     <p>A.A. General Studies</p>
                 </div>
+                <div class="h-4"></div>
                 <div>
                     <h2 class="text-xl font-semibold">The Home Depot</h2>
                     <p>UX Design Intern</p>
